@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="127f25a7-da75-46b2-848c-0a89a4481d63" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/2606Class/src/D2706Prac/Q3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/2606Class/src/D2706Prac/Q3/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/2606Class/src/D42Car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/2606Class/src/D42Car/CarPublic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/2606Class/src/D42Car/D42car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/2606Class/src/D4Car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/2606Class/src/D4Car/D4Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/2606Class/src/Prac/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/2606Class/src/Prac/Music/PracMusic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/2606Class/src/Prac/Music/music.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/2606Class/src/Prac/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/2606Class/src/Prac/book/PracBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/2606Class/src/Prac/book/book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/2606Class/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/kcode/kcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/kcode/people.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/kcode/src/D10/D10FileIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/kcode/src/D10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/kcode/src/D10/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/kcode/src/D10/people" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/kcode/src/D9/D91Functional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/kcode/src/D9/D92Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/kcode/src/D9/D93UsingStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/kcode/src/D9/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/kcode/src/D9/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/kcode/src/D9/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/kcode/src/D9/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/kcode/src/D9/noArgRetFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/kcode/src/d6/d64/AirPlane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/kcode/src/d6/d64/Beeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/kcode/src/d6/d64/Drivable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/kcode/src/d6/d64/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/ngay21-6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/ngay21-6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/ngay21-6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/ngay21-6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/ngay21-6/kc2106/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/ngay21-6/kc2106/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects/ngay21-6/ngay21-6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/kc2106/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/kc2106/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/kc2106/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/kc2106/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/kc2106/kc2106.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/kc2106/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/kc2106/src/QA1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/kc2106/src/QA2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/kc2106/src/QA3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/kc2106/src/QA5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/kc2106/src/Qe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/kc2106/src/day2/Ternary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/kc2106/src/day2/comparison.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/kc2106/src/day2/rithmetics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/kc2106/src/day2/실습/Q1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/kc2106/src/day2/실습/Q2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/kc2106/src/day2/실습/Q3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/kc2106/src/day2/실습/Q4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/kc2106/src/day2/실습/Q5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/thuchanh1/thuchanh1.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/DataBase/DB-BASICS" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2jPYJEVrlrXaUqemFpOR4KlVYtU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/trang/git.tien"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="127f25a7-da75-46b2-848c-0a89a4481d63" name="Changes" comment="" />
+      <created>1721290106071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721290106071</updated>
+    </task>
+    <servers />
+  </component>
+</project>
