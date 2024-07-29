@@ -1,0 +1,16 @@
+p{
+    color: greenyellow;
+}
+#red-text{
+   
+ color: red;
+}
+.blue-text{
+    color: blue;
+}
+#red-text.blue-text{
+    color: purple;
+}
+.blue-text{
+    color: cyan;
+}
