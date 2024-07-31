@@ -1,0 +1,16 @@
+body {
+  width: 300px;
+}
+.title{
+  text-align: center;
+}
+#haha{
+  text-align: center;
+  background-color: gray;
+}
+.hehe{
+  text-align: start;
+}
+.hi{
+  font-weight: bold;
+}

@@ -1,0 +1,22 @@
+.hop{
+    width: 350px;
+    height: 150px;
+    box-sizing: border-box;
+    background-color: white;
+    border-style:groove;
+    text-align: center;
+    border-radius: 10px;
+    padding-top: 20px;
+}
+.login{
+    background-color: green;
+    width: 350pxpx;
+    height: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 5px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 5px;
+
+}

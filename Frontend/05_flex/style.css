@@ -1,0 +1,35 @@
+.container-flex{
+    background-color: skyblue;
+    width: 390px;
+    height: 300px;
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: row;
+
+    flex-wrap: wrap; /* het cho thi nhay xuong duoi*/
+}
+.justify-content{
+justify-content: space-between;
+}
+.box{
+    background-color: dodgerblue;
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+
+}
+.align-item{
+    align-items: end;
+    align-items: flex-start;
+    align-items: flex-end;
+    align-items: stretch;
+}
+.flex-center{
+    background-color: aquamarine;
+
+}
+.align-content{
+    
+
+}

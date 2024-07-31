@@ -1,0 +1,50 @@
+body {
+
+  margin-left: 50px;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  
+}
+
+#drawer-container {
+  width: 300px;
+  height: 100vh;
+  background-color: white;
+  box-sizing: border-box;
+  border-right: 0.5px solid black;
+}
+#drawer-profile {
+  height: 180px;
+  width: 70%;
+  padding-top: 50px;
+  border-bottom: 0.5px solid black;
+  box-sizing: border-box;
+  margin-right: 10px;
+
+}
+
+
+#drawer-profile-image {
+  width: 60px;
+  height: 60px;
+}
+
+#drawer-profile-name {
+  font-weight: bolder;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+#drawer-profile-email {
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+.drawer-menu-container {
+  height: 50px;
+}
+
+.no-margin {
+  margin: 0px;
+}
