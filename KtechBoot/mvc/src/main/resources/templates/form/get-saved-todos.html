@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>TODOs</h1>
+<p>Saved: [[${savedTodo}]]</p>
+<a href="/save-todo"></a>
+<ul>
+    <li th:each="todo: ${todoList}" th:text="${todo}"></li>
+</ul>
+<ul>
+    <a href="save-todo">Back</a>
+</ul>
+</body>
+</html>

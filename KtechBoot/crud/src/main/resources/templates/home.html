@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>Student List</h1>
+<!--저잔도 학생이 없을대-->
+<div th:if="${studentList.isEmpty()}">
+    <p>No student here</p>
+</div >
+<!--저잔도 학생이 있을대---->
+<div th:unless="${studentList.isEmpty()}" th:each="student: ${studentList}">
+    <p>ID: [[${student.id}]]</p>
+    <p>이름: [[${student.name}]]</p>
+    <p> 이메일: [[${student.email}]]</p>
+    <a th:href="@{/{id}(id=${student.id})}"><img src="https://www.shutterstock.com/image-vector/infomation-icon-map-pointer-260nw-781948972.jpg" ></a>
+    <hr>
+</div>
+
+<a href="/create-view"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Q6injt8K1HzymGbbCndaj93lfosh6s0SmQ&s"> </a>
+</body>
+</html>

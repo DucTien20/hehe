@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>Names</h1>
+<ul>
+    <li th:each="name: ${names}">
+        [[${name}]]
+    </li>
+</ul>
+
+
+<h1>Students</h1>
+<p th:if="${students.isEmpty()}">No Student</p>
+<div th:each="student: ${students}">
+    <h3>Name: [[${student.name}]] </h3>
+    <h3>Email:[[${student.email}]] </h3>
+</div>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>READ</title>
+</head>
+<body>
+<h1>[[${instructor.id}]]. [[${instructor.firstName}]] [[${instructor.lastName}]]</h1>
+<hr>
+<h2>Advising Student</h2>
+<!--고수님이 지도 학생이 없는 경우-->
+<div th:if="${instructor.advisingStudents.isEmpty}" >
+    <p> This instructor does not advise any student</p>
+</div>
+<!--고수님이 지도 학생이 있는 경우-->
+<div th:unless="${instructor.advisingStudents.isEmpty}"
+th:each="student: ${instructor.advisingStudents}">
+    <p>[[${student.id}]]. [[${student.name}]]
+        <a th:href="@{/students/{id} (id=${student.id})}">Details</a>
+    </p>
+</div>
+</body>
+</html>
